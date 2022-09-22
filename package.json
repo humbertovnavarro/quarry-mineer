@@ -1,7 +1,7 @@
 {
-  "name": "cc-tstl-template",
+  "name": "quarry-miner",
   "version": "1.100.5",
-  "description": "Template project for ComputerCraft programs written in TypeScript.",
+  "description": "Quarry miner for create written in typescript with typescript to lua",
   "main": "main.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,6 +12,6 @@
     "@jackmacwindows/lua-types": "^2.13.1",
     "@jackmacwindows/typescript-to-lua": "^1.10.1"
   },
-  "author": "JackMacWindows",
+  "author": "Kamaii",
   "license": "MIT"
 }

@@ -1,0 +1,11 @@
+minecraft:raw_gold
+minecraft:raw_iron
+minecraft:raw_copper
+create:raw_zinc
+ae2:certus_quartz_crystal
+ae2:charged_certus_quartz_crystal
+ae2:fluix_crystal
+minecraft:netherite_scrap
+minecraft:netherite_ingot
+minecraft:emerald
+minecraft:diamond
